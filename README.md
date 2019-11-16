@@ -1,5 +1,5 @@
 # RLInBasicLIActuarialWork
-related python code and Jupyter notebooks for the article of IAJ conference 2019.
+related python code and Jupyter notebooks for the article of IAJ conference 2019.  
 types of agents are DQN, A2C, DDPG, NAF (fail?), AWR, ES, GA on keras.
 
 ## Main topics
